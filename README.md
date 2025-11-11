@@ -1,19 +1,27 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Dreams of Light - Freya | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Well that turned out to be a great one didn't it? Here's another Celtic new
+age vocal track just for the fun!
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #celticpop #uplifting #irish #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Dreams-of-Light-Freya.mp3
+  Size: 10373120        Blocks: 20264      IO Block: 4096   regular file
+Device: 253,2   Inode: 40765974    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-11 11:45:26.420550800 +0800
+Modify: 2025-11-11 11:45:28.592561394 +0800
+Change: 2025-11-11 11:45:28.592561394 +0800
+ Birth: 2025-05-31 15:05:38.037372507 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-06-21
+On YouTube since : 2025-07-28
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=YiyTZkQR4ws)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +54,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Dreams of Light - Freya
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-dreams-of-light-freya
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
